@@ -10,7 +10,7 @@ const Home = () => {
             Say good bye to your hunger!
           </h1>
           <p className="text-green-100 opacity-70 mt-3 text-xl font-semibold mb-2">
-            Order healthy and tasty food online wherever and whenever from{" "}
+            Order healthy and delicious food online wherever and whenever from{" "}
             <span className="text-green-400 font-bold text-3xl ml-1 logo">
               Swirly
             </span>
