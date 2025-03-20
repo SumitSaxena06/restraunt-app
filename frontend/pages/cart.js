@@ -22,7 +22,7 @@ const cart = () => {
             <div>
               <div className="flex flex-col justify-center items-end p-5 space-y-5 mt-14">
                 <h1 className="font-semibold text-lg text-green-500">
-                  YOUR CART SUMMARY
+                  YOUR CART DETAILS
                 </h1>
                 <p className="font-bold text-green-400">
                   <span className="text-green-100 font-semibold">
